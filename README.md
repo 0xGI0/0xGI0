@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
+![Header](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
+
+
 ![Hi, I'm QG1o.!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
 ---
 
@@ -105,4 +107,4 @@ about_me:
 
 “Thou art a poor soul, saddled with a corpse,” said Epictetus. 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=672FAE&height=120&section=footer&fontSize=30&fontColor=87CEFA)
+![Footer](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=120&section=footer)
