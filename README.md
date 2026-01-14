@@ -56,7 +56,7 @@ about_me:
 
 - 📘 Product Store App with PERN Stack
 
-### 🎯 Next goals
+### 🔮 Next goals
 
 - 🌐 Persönliche Portfolio-Website schreiben
 
