@@ -1,7 +1,7 @@
 ![Header](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
 
 
-![Hi, I'm QG1o.!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg) <img src="https://raw.githubusercontent.com/QG1o/QG1o/main/gifs/hand.gif" width="150" />
+![Hi, I'm QG1o.!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
 
 <!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=0.35em&pause=1000&color=672FAE&width=1300&height=100&lines=&nbsp;&nbsp;Web+Developer+%7C+IT-Admin+%7C+Security+Hobbyist)](https://git.io/typing-svg)---> 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&letterSpacing=0.35em&color=672FAE&width=800&height=100&speed=8000&pause=5&center=true&lines=Web+Developer;IT-Admin;Security+Hobbyist)
