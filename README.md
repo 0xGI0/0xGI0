@@ -71,6 +71,8 @@ about_me:
 | 🚀 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Enthält zwei Python-Scripte zur Analyse deiner GitHub-Follower. |
+| 🖼️ [`PicConverter`](https://github.com/QG1o/PicConverter) | Python-Tool zum Konvertieren von Bildern zwischen verschiedenen Formaten. |
+| 💎 [`mein-crypto-token`](https://github.com/QG1o/mein-crypto-token) | ERC-20 Token auf Polygon Blockchain - Smart Contract Entwicklung mit Solidity. |
 | 🧠 [`Hack The Box Progress`](https://github.com/QG1o/htb-progress/blob/main/README.md) | Übersicht über meine Hack The Box Boxen- & Challenge-Fortschritte. |
 
 
