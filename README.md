@@ -86,7 +86,7 @@ about_me:
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/192287066-georgios)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/QG1o)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
-[![Discord](https://img.shields.io/badge/Discord-%60qg1o%5F%60-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord: qg1o_](https://img.shields.io/badge/Discord-qg1o\_-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/DEINE_DISCORD_ID)
 
 
 ---
