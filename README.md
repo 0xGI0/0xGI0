@@ -30,8 +30,8 @@ about_me:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=plastic&logo=microsoft-active-directory&logoColor=white)
-![IT Security](https://img.shields.io/badge/IT_Security-DC143C?style=plastic&logo=fortinet&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-000000?style=plastic&logo=gnu-bash&logoColor=white)
+![IT Security](https://img.shields.io/badge/IT_Security-DC143C?style=plastic&logo=fortinet&logoColor=white)
 #### 🌐 Web / Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=plastic&logo=css3&logoColor=white)
