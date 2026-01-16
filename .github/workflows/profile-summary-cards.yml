@@ -1,8 +1,8 @@
 name: GitHub-Profile-Summary-Cards
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Läuft jeden Tag um Mitternacht
+  workflow_dispatch:  # Erlaubt manuelles Starten
   
 jobs:
   summary-cards:
@@ -15,7 +15,7 @@ jobs:
       
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          MAX_LANGUAGES: 6  # ← Zeige 6 statt 5 Sprachen!
+          MAX_LANGUAGES: 6
