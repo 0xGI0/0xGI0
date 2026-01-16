@@ -88,6 +88,9 @@ about_me:
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/QG1o)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
 [![Discord](https://img.shields.io/badge/Discord-qg1o__-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/1461690261804548250)
+[![Matrix](https://img.shields.io/badge/Matrix-@qg1o:matrix.org-000000?style=plastic&logo=matrix&logoColor=white)](https://matrix.to/#/@qg1o:matrix.org)
+[![PGP Key](https://img.shields.io/badge/PGP-BCD2264C18EFF80A-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white)](https://github.com/QG1o.gpg)
+
 
 ---
 ### 📊 GitHub Stats
