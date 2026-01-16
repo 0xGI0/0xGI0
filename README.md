@@ -74,6 +74,7 @@ about_me:
 | 🖼️ [`PicConverter`](https://github.com/QG1o/PicConverter) | Python-Tool zum Konvertieren von Bildern zwischen verschiedenen Formaten. |
 | 💎 [`mein-crypto-token`](https://github.com/QG1o/mein-crypto-token) | ERC-20 Token auf Polygon Blockchain - Smart Contract Entwicklung mit Solidity. |
 | 🧠 [`Hack The Box Progress`](https://github.com/QG1o/htb-progress/blob/main/README.md) | Übersicht über meine Hack The Box Boxen- & Challenge-Fortschritte. |
+| 🎨 [`SD Forge Quick Setup`](https://github.com/QG1o/stable-diffusion-forge-installer) | One-click installer für Stable Diffusion WebUI Forge mit Extensions, Models & ControlNet. |
 
 
 ---
