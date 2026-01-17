@@ -1,10 +1,6 @@
 ![Header](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
-
-
 ![Hi, I'm QG1o.!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
-
 ![Typing SVG](https://raw.githubusercontent.com/QG1o/QG1o/main/text.svg)
-
 
 ---
 ```yaml
@@ -96,7 +92,7 @@ about_me:
 
 
 <div>
-
+  
 ![](https://stats1-three.vercel.app/api/cards/profile-details?username=QG1o&theme=tokyonight)
 ![](https://stats1-three.vercel.app/api/cards/repos-per-language?username=QG1o&theme=tokyonight)
 ![](https://stats1-three.vercel.app/api/cards/most-commit-language?username=QG1o&theme=tokyonight)
@@ -106,11 +102,8 @@ about_me:
 </div>
 
 ---
-
 ![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=QG1o&t=${Date.now()})
-
 &nbsp;
 
 “Thou art a poor soul, saddled with a corpse,” said Epictetus. 
-
 ![Footer](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=120&section=footer)
