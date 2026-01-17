@@ -98,11 +98,11 @@ about_me:
 
 <div>
 
-![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/tokyonight/3-stats.svg)
-![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://stats1-three.vercel.app/api/cards/profile-details?username=QG1o&theme=tokyonight)
+![](https://stats1-three.vercel.app/api/cards/repos-per-language?username=QG1o&theme=tokyonight&max_languages=6)
+![](https://stats1-three.vercel.app/api/cards/most-commit-language?username=QG1o&theme=tokyonight&max_languages=6)
+![](https://stats1-three.vercel.app/api/cards/stats?username=QG1o&theme=tokyonight)
+![](https://stats1-three.vercel.app/api/cards/productive-time?username=QG1o&theme=tokyonight&utcOffset=1)
 
 </div>
 
