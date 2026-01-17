@@ -1,86 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@900&amp;display=swap');
-      
-      text {
-        font-family: 'Fira Code', monospace;
-        font-size: 35px;
-        font-weight: 900;
-        letter-spacing: 0.35em;
-        fill: #672FAE;
-        text-anchor: middle;
-        dominant-baseline: middle;
-      }
-      
-      .typing-text::after {
-        content: "";
-        animation: typing 15s steps(1) infinite;
-      }
-      
-      @keyframes typing {
-        /* Web Developer */
-        0% { content: ""; }
-        1.5% { content: "W"; }
-        3% { content: "We"; }
-        4.5% { content: "Web"; }
-        6% { content: "Web "; }
-        7.5% { content: "Web D"; }
-        9% { content: "Web De"; }
-        10.5% { content: "Web Dev"; }
-        12% { content: "Web Deve"; }
-        13.5% { content: "Web Devel"; }
-        15% { content: "Web Develo"; }
-        16.5% { content: "Web Develop"; }
-        18% { content: "Web Develope"; }
-        19.5% { content: "Web Developer"; }
-        19.5%, 32% { content: "Web Developer"; }
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@900&amp;display=swap');
         
-        /* IT-Admin */
-        33.3% { content: ""; }
-        34.8% { content: "I"; }
-        36.3% { content: "IT"; }
-        37.8% { content: "IT-"; }
-        39.3% { content: "IT-A"; }
-        40.8% { content: "IT-Ad"; }
-        42.3% { content: "IT-Adm"; }
-        43.8% { content: "IT-Admi"; }
-        45.3% { content: "IT-Admin"; }
-        45.3%, 65% { content: "IT-Admin"; }
+        .typing-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100px;
+          font-family: 'Fira Code', monospace;
+          font-size: 35px;
+          font-weight: 900;
+          letter-spacing: 0.35em;
+          color: #672FAE;
+        }
         
-        /* Security Hobbyist */
-        66.6% { content: ""; }
-        68% { content: "S"; }
-        69.4% { content: "Se"; }
-        70.8% { content: "Sec"; }
-        72.2% { content: "Secu"; }
-        73.6% { content: "Secur"; }
-        75% { content: "Securi"; }
-        76.4% { content: "Securit"; }
-        77.8% { content: "Security"; }
-        79.2% { content: "Security "; }
-        80.6% { content: "Security H"; }
-        82% { content: "Security Ho"; }
-        83.4% { content: "Security Hob"; }
-        84.8% { content: "Security Hobb"; }
-        86.2% { content: "Security Hobby"; }
-        87.6% { content: "Security Hobbyi"; }
-        89% { content: "Security Hobbyis"; }
-        90.4% { content: "Security Hobbyist"; }
-        90.4%, 100% { content: "Security Hobbyist"; }
-      }
-      
-      .cursor {
-        animation: blink 0.7s step-end infinite;
-      }
-      
-      @keyframes blink {
-        50% { opacity: 0; }
-      }
-    </style>
-  </defs>
-  
-  <rect width="800" height="100" fill="transparent"/>
-  <text class="typing-text" x="400" y="50"></text>
-  <text class="cursor" x="420" y="50">|</text>
+        .typing-text::after {
+          content: "";
+          animation: typing 15s steps(1) infinite;
+        }
+        
+        @keyframes typing {
+          0% { content: ""; }
+          1.5% { content: "W"; }
+          3% { content: "We"; }
+          4.5% { content: "Web"; }
+          6% { content: "Web "; }
+          7.5% { content: "Web D"; }
+          9% { content: "Web De"; }
+          10.5% { content: "Web Dev"; }
+          12% { content: "Web Deve"; }
+          13.5% { content: "Web Devel"; }
+          15% { content: "Web Develo"; }
+          16.5% { content: "Web Develop"; }
+          18% { content: "Web Develope"; }
+          19.5% { content: "Web Developer"; }
+          19.5%, 32% { content: "Web Developer"; }
+          
+          33.3% { content: ""; }
+          34.8% { content: "I"; }
+          36.3% { content: "IT"; }
+          37.8% { content: "IT-"; }
+          39.3% { content: "IT-A"; }
+          40.8% { content: "IT-Ad"; }
+          42.3% { content: "IT-Adm"; }
+          43.8% { content: "IT-Admi"; }
+          45.3% { content: "IT-Admin"; }
+          45.3%, 65% { content: "IT-Admin"; }
+          
+          66.6% { content: ""; }
+          68% { content: "S"; }
+          69.4% { content: "Se"; }
+          70.8% { content: "Sec"; }
+          72.2% { content: "Secu"; }
+          73.6% { content: "Secur"; }
+          75% { content: "Securi"; }
+          76.4% { content: "Securit"; }
+          77.8% { content: "Security"; }
+          79.2% { content: "Security "; }
+          80.6% { content: "Security H"; }
+          82% { content: "Security Ho"; }
+          83.4% { content: "Security Hob"; }
+          84.8% { content: "Security Hobb"; }
+          86.2% { content: "Security Hobby"; }
+          87.6% { content: "Security Hobbyi"; }
+          89% { content: "Security Hobbyis"; }
+          90.4% { content: "Security Hobbyist"; }
+          90.4%, 100% { content: "Security Hobbyist"; }
+        }
+        
+        .cursor {
+          animation: blink 0.7s step-end infinite;
+          margin-left: 5px;
+        }
+        
+        @keyframes blink {
+          50% { opacity: 0; }
+        }
+      </style>
+      <div class="typing-container">
+        <span class="typing-text"></span>
+        <span class="cursor">|</span>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
