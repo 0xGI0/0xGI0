@@ -62,6 +62,7 @@ about_me:
 | Projekt                 | Beschreibung                                                  |
 |------------------------|--------------------------------------------------------------|
 | 📦 [`Product Store App`](#) | Full-stack PERN Stack Web App mit Authentifizierung, REST API und PostgreSQL-Datenbank. |
+| 🎨 [`Portfolio-4`](https://qg1o2.netlify.app/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🎨 [`Portfolio-3`](https://qg1o.netlify.app/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🚀 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
