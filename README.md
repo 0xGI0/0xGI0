@@ -85,7 +85,7 @@ about_me:
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=plastic&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/QG1o)
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=plastic&logo=sololearn&logoColor=white)](https://www.sololearn.com/de/profile/25490887)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/QG1o/)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/192287066-georgios)
+[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/192287066-qg1o)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/QG1o)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
 [![Discord](https://img.shields.io/badge/Discord-qg1o__-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/1461690261804548250)
