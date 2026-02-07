@@ -63,6 +63,7 @@ about_me:
 | Projekt                 | Beschreibung                                                  |
 |------------------------|--------------------------------------------------------------|
 | 📦 [`Product Store App`](#) | Full-stack PERN Stack Web App mit Authentifizierung, REST API und PostgreSQL-Datenbank. |
+| 🚀 [`Portfolio-6`](https://qg1om.netlify.app/) | Multi-Page-Website mit modernsten Web-Technologien und innovativen Features. |
 | 🚀 [`Portfolio-5`](https://qg1o3.netlify.app/) | Neuestes Portfolio-Projekt mit modernsten Web-Technologien und innovativen Features. |
 | ✨ [`Portfolio-4`](https://qg1o2.netlify.app/) | React + TypeScript Portfolio mit shadcn-ui, Tailwind CSS und modernen UI-Komponenten. |
 | 🎮 [`Portfolio-3`](https://qg1o.netlify.app/) | Interaktives React Portfolio mit Three.js 3D-Grafiken, GSAP-Animationen und Glassmorphism. |
