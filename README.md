@@ -31,7 +31,7 @@ about_me:
 ![IT Security](https://img.shields.io/badge/IT_Security-DC143C?style=plastic&logo=fortinet&logoColor=white)
 #### 🌐 Web / Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=plastic&logo=css3&logoColor=white)
+![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-264DE4.svg?style=plastic&logo=code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
