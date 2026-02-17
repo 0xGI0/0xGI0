@@ -38,11 +38,13 @@ about_me:
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)
 #### ⚙️ Backend / Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+
 
 ---
 
