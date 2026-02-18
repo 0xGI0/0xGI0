@@ -86,7 +86,7 @@ about_me:
 ### 📬 Profiles & Platforms
 
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=plastic&logo=hackthebox&logoColor=1A472A)](https://app.hackthebox.com/profile/1004159)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xGI0)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=plastic&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/QG1o)
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=plastic&logo=sololearn&logoColor=white)](https://www.sololearn.com/de/profile/25490887)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/QG1o/)
