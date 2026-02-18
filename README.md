@@ -7,11 +7,11 @@
 about_me:
   languages: ["🇩🇪", "🇬🇷", "🇬🇧"]
   description:
-    - "🧑‍💻 IT-Faszination seit meiner Kindheit – über 20 Jahre Erfahrung 🌟"
-    - "🔐 Spezialgebiet: Web-Entwicklung, IT-Administration & IT-Sicherheit 🛡️"
-    - "🏢 Planung, Aufbau & Betreuung kompletter IT-Infrastrukturen 🖥️💾"
-    - "📚 Lebenslanges Lernen – theoretisch & praktisch 🧠✨"
-    - "🌐 Stets neue Technologien ausprobieren und Projekte umsetzen 🚀"
+    - "🧑‍💻 Passion for IT since childhood – 20+ years of experience 🌟"
+    - "🔐 Specialization: Web Development, IT Administration & IT Security 🛡️"
+    - "🏢 Planning, building & maintaining complete IT infrastructures 🖥️💾"
+    - "📚 Lifelong learning – both theoretical & practical 🧠✨"
+    - "🌐 Always exploring new technologies and building new projects 🚀"
   contact:
     ask_me_anything:
       text: "💬 Ask me anything"
@@ -53,31 +53,32 @@ about_me:
 
 ### 🎯 Learning in progress
 
-- 📘 Product Store App with PERN Stack
+- 📘 Building a Product Store App with the PERN stack
 
 ### 🔮 Next goals
 
-- 🌐 Persönliche Portfolio-Website schreiben
+- 🌐 Build a personal portfolio website
 
 ---
 
 ### 🛠 Projects
 
 
-| Projekt                 | Beschreibung                                                  |
+| Project | Description |
 |------------------------|--------------------------------------------------------------|
-| 📦 [`Product Store App`](#) | Full-stack PERN Stack Web App mit Authentifizierung, REST API und PostgreSQL-Datenbank. |
-| 🖥️ [`Portfolio-6`](https://qg1om.netlify.app/) | Multi-Page-Website mit modernsten Web-Technologien und innovativen Features. |
-| 🚀 [`Portfolio-5`](https://qg1o3.netlify.app/) | Neuestes Portfolio-Projekt mit modernsten Web-Technologien und innovativen Features. |
-| ✨ [`Portfolio-4`](https://qg1o2.netlify.app/) | React + TypeScript Portfolio mit shadcn-ui, Tailwind CSS und modernen UI-Komponenten. |
-| 🎮 [`Portfolio-3`](https://qg1o.netlify.app/) | Interaktives React Portfolio mit Three.js 3D-Grafiken, GSAP-Animationen und Glassmorphism. |
-| 🌈 [`Portfolio-2`](https://qg1o.github.io/portfolio2/) | React Portfolio mit Custom Rainbow Cursor, Spiral-Wipe Theme-Transition und Pastell-Design. |
-| 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/) | Vanilla JS Portfolio mit Dark/Light Mode Toggle, Glassmorphism-Effekten und CSS-Animationen. |
-| 👁️ [`Profile Viewer`](https://github.com/QG1o/profile-viewer) | GitHub Profile View Counter API & Badge zur Anzeige von Profilaufrufen in READMEs. |
-| 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Zwei Python-Scripte zur Analyse deiner GitHub-Follower und Unfollower-Erkennung. |
-| 🖼️ [`PicConverter`](https://github.com/QG1o/PicConverter) | Python-Tool zum Konvertieren von Bildern zwischen verschiedenen Formaten. |
-| 💎 [`mein-crypto-token`](https://github.com/QG1o/mein-crypto-token) | ERC-20 Token auf Polygon Blockchain - Smart Contract Entwicklung mit Solidity. |
-| 🧠 [`Hack The Box Progress`](https://github.com/QG1o/htb-progress/blob/main/README.md) | Übersicht über meine Hack The Box Boxen- & Challenge-Fortschritte. |
+| 📦 [`Product Store App`](#) | Full-stack PERN stack web app with authentication, REST API, and PostgreSQL database. |
+| 🖥️ [`Portfolio-6`](https://qg1om.netlify.app/) | Multi-page website built with cutting-edge web technologies and innovative features. |
+| 🚀 [`Portfolio-5`](https://qg1o3.netlify.app/) | Latest portfolio project using modern web technologies and advanced UI concepts. |
+| ✨ [`Portfolio-4`](https://qg1o2.netlify.app/) | React + TypeScript portfolio with shadcn-ui, Tailwind CSS, and modern UI components. |
+| 🎮 [`Portfolio-3`](https://qg1o.netlify.app/) | Interactive React portfolio with Three.js 3D graphics, GSAP animations, and glassmorphism design. |
+| 🌈 [`Portfolio-2`](https://qg1o.github.io/portfolio2/) | React portfolio with custom rainbow cursor, spiral-wipe theme transition, and pastel design. |
+| 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/) | Vanilla JS portfolio with dark/light mode toggle, glassmorphism effects, and CSS animations. |
+| 👁️ [`Profile Viewer`](https://github.com/QG1o/profile-viewer) | GitHub profile view counter API & badge for displaying profile views in READMEs. |
+| 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Two Python scripts for analyzing GitHub followers and detecting unfollowers. |
+| 🖼️ [`PicConverter`](https://github.com/QG1o/PicConverter) | Python tool for converting images between different formats. |
+| 💎 [`mein-crypto-token`](https://github.com/QG1o/mein-crypto-token) | ERC-20 token on the Polygon blockchain – smart contract development using Solidity. |
+| 🧠 [`Hack The Box Progress`](https://github.com/QG1o/htb-progress/blob/main/README.md) | Overview of my Hack The Box machines and challenge progress. |
+
 
 
 
