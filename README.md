@@ -71,8 +71,8 @@ about_me:
 | 🚀 [`Portfolio-5`](https://qg1o3.netlify.app/) | Latest portfolio project using modern web technologies and advanced UI concepts. |
 | ✨ [`Portfolio-4`](https://qg1o2.netlify.app/) | React + TypeScript portfolio with shadcn-ui, Tailwind CSS, and modern UI components. |
 | 🎮 [`Portfolio-3`](https://qg1o.netlify.app/) | Interactive React portfolio with Three.js 3D graphics, GSAP animations, and glassmorphism design. |
-| 🌈 [`Portfolio-2`](https://qg1o.github.io/portfolio2/) | React portfolio with custom rainbow cursor, spiral-wipe theme transition, and pastel design. |
-| 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/) | Vanilla JS portfolio with dark/light mode toggle, glassmorphism effects, and CSS animations. |
+| 🌈 [`Portfolio-2`](https://0xgi0.github.io/portfolio2/) | React portfolio with custom rainbow cursor, spiral-wipe theme transition, and pastel design. |
+| 🌟 [`Portfolio-1`](https://0xgi0.github.io/portfolio1/) | Vanilla JS portfolio with dark/light mode toggle, glassmorphism effects, and CSS animations. |
 | 👁️ [`Profile Viewer`](https://github.com/QG1o/profile-viewer) | GitHub profile view counter API & badge for displaying profile views in READMEs. |
 | 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Two Python scripts for analyzing GitHub followers and detecting unfollowers. |
 | 🖼️ [`PicConverter`](https://github.com/QG1o/PicConverter) | Python tool for converting images between different formats. |
