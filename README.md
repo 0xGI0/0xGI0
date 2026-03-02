@@ -98,7 +98,6 @@ about_me:
 [![Matrix](https://img.shields.io/badge/Matrix-@0xgi0:matrix.org-000000?style=plastic&logo=matrix&logoColor=white)](https://matrix.to/#/@qg1o:matrix.org)
 [![PGP Key](https://img.shields.io/badge/PGP-BCD2264C18EFF80A-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white)](https://github.com/0xgi0.gpg)
 
-@0xgi0:matrix.org
 
 ---
 ### 📊 GitHub Stats
