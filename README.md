@@ -109,7 +109,7 @@ about_me:
 ![](https://stats1-three.vercel.app/api/cards/repos-per-language?username=0xGI0&theme=tokyonight)
 ![](https://stats1-three.vercel.app/api/cards/most-commit-language?username=0xGI0&theme=tokyonight)
 ![](https://stats1-three.vercel.app/api/cards/stats?username=0xGI0&theme=tokyonight)
-![](https://stats1-three.vercel.app/api/cards/productive-time?username=0xGI0&theme=tokyonight&utcOffset=0)
+![](https://stats1-three.vercel.app/api/cards/productive-time?username=0xGI0&theme=tokyonight)
 
 </div>
 
