@@ -77,7 +77,6 @@ about_me:
 | 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Two Python scripts for analyzing GitHub followers and detecting unfollowers. |
 | 🖼️ [`PicConverter`](https://github.com/QG1o/PicConverter) | Python tool for converting images between different formats. |
 | 💎 [`mein-crypto-token`](https://github.com/QG1o/mein-crypto-token) | ERC-20 token on the Polygon blockchain – smart contract development using Solidity. |
-| 🧠 [`Hack The Box Progress`](https://github.com/QG1o/htb-progress/blob/main/README.md) | Overview of my Hack The Box machines and challenge progress. |
 
 
 
