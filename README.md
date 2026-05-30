@@ -67,6 +67,7 @@ about_me:
 | Project | Description |
 |------------------------|--------------------------------------------------------------|
 | 📦 [`Product Store App`](#) | Full-stack PERN stack web app with authentication, REST API, and PostgreSQL database. |
+| 🌈 [`Portfolio-8(2re)`](https://0xgi0.github.io/portfolio2re/) | React portfolio-RELOADED with custom rainbow cursor, spiral-wipe theme transition, and pastel design. |
 | 🌐 [`Portfolio-7`](https://qg1om3.netlify.app/) | Multi-page Next.js portfolio with dark/light mode, Framer Motion animations and full personal branding. |
 | 🖥️ [`Portfolio-6`](https://qg1om.netlify.app/) | Multi-page website built with cutting-edge web technologies and innovative features. |
 | 🚀 [`Portfolio-5`](https://qg1o3.netlify.app/) | Latest portfolio project using modern web technologies and advanced UI concepts. |
