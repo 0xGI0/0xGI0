@@ -67,6 +67,7 @@ about_me:
 | Project | Description |
 |------------------------|--------------------------------------------------------------|
 | 📦 [`Product Store App`](#) | Full-stack PERN stack web app with authentication, REST API, and PostgreSQL database. |
+| 🌐 [`Portfolio-7`](https://qg1om3.netlify.app/) | Multi-page Next.js portfolio with dark/light mode, Framer Motion animations and full personal branding. |
 | 🖥️ [`Portfolio-6`](https://qg1om.netlify.app/) | Multi-page website built with cutting-edge web technologies and innovative features. |
 | 🚀 [`Portfolio-5`](https://qg1o3.netlify.app/) | Latest portfolio project using modern web technologies and advanced UI concepts. |
 | ✨ [`Portfolio-4`](https://qg1o2.netlify.app/) | React + TypeScript portfolio with shadcn-ui, Tailwind CSS, and modern UI components. |
