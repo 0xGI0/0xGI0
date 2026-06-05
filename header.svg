@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 850 100" width="850" height="100" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -31,6 +31,8 @@
           font-size: 4em;
           font-weight: 900;
           letter-spacing: 0.35em;
+          padding-left: 0.35em;  /* Schiebt den Text optisch in die Mitte */
+          margin-right: -0.35em; /* Verhindert, dass der unsichtbare Abstand rechts das Layout sprengt */
           text-align: center;
           background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet);
           background-size: 400%;
