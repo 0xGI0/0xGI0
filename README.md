@@ -116,7 +116,7 @@ about_me:
 </div>
 
 ---
-![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=0xGI0)
+![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=0xGI0&icon=ring)
 &nbsp;
 ![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=0xGI0&mode=symbols)
 
