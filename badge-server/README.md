@@ -38,20 +38,19 @@ identical, including the `plastic` style used throughout the README.
 
 ## Deploy to Vercel
 
-This folder is a self-contained Vercel project.
+This repository is a self-contained Vercel project (everything lives at the
+repo root).
 
 ### Option A — Vercel dashboard
 
-1. Push this repo to GitHub (already done if you're reading this on GitHub).
-2. In Vercel: **Add New… → Project → Import** your repo.
-3. Set **Root Directory** to `badge-server`.
-4. Framework preset: **Other**. No build command needed.
-5. Deploy. You'll get a domain like `https://your-badges.vercel.app`.
+1. In Vercel: **Add New… → Project → Import** this repository.
+2. **Root Directory:** leave as `.` (the repo root).
+3. Framework preset: **Other**. No build command needed.
+4. Deploy. You'll get a domain like `https://your-badges.vercel.app`.
 
 ### Option B — Vercel CLI
 
 ```bash
-cd badge-server
 npx vercel        # preview deploy
 npx vercel --prod # production deploy
 ```
@@ -69,20 +68,20 @@ The root page (`https://YOUR-DOMAIN/`) shows live examples.
 
 ## Point the README at your service
 
-Once deployed, run the helper from this folder:
+Once deployed, run the helper against your **profile** repo's README (clone it
+first, then point the script at its README):
 
 ```bash
-./swap-readme.sh your-badges.vercel.app ../README.md
+./swap-readme.sh your-badges.vercel.app /path/to/profile-repo/README.md
 ```
 
 It rewrites every `img.shields.io` and `custom-icon-badges.demolab.com` badge
 URL to your domain and writes a `README.md.bak` backup. Review the diff, then
-commit.
+commit the profile repo.
 
 ## Local development / tests
 
 ```bash
-cd badge-server
 npm install
 npm test          # renders every badge used in the profile README
 npx vercel dev    # serve locally at http://localhost:3000
