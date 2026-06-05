@@ -116,8 +116,9 @@ about_me:
 </div>
 
 ---
-![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=QG1o&t=${Date.now()})
+![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=0xGI0)
 &nbsp;
+![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=0xGI0&mode=symbols)
 
 “Thou art a poor soul, saddled with a corpse,” said Epictetus. 
 ![Footer](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=120&section=footer)
