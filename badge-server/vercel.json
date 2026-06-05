@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    { "source": "/badge/:slug*", "destination": "/api/badge/:slug*" }
+  ]
+}

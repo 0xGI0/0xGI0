@@ -1,0 +1,4 @@
+node_modules/
+.vercel/
+preview.png
+preview.svg

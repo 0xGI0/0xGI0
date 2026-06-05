@@ -1,0 +1,18 @@
+{
+  "name": "badge-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted shields.io-compatible static badge service (simple-icons + GitHub Octicons)",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test/render.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@primer/octicons": "^19.28.1",
+    "badge-maker": "^5.0.2",
+    "simple-icons": "^16.22.0"
+  }
+}

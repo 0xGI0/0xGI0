@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Self-hosted badges</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        max-width: 720px;
+        margin: 3rem auto;
+        padding: 0 1rem;
+        line-height: 1.6;
+        color: #222;
+      }
+      code {
+        background: #f2f2f2;
+        padding: 0.1em 0.35em;
+        border-radius: 4px;
+      }
+      pre {
+        background: #f2f2f2;
+        padding: 1rem;
+        border-radius: 8px;
+        overflow-x: auto;
+      }
+      img {
+        vertical-align: middle;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Self-hosted badges</h1>
+    <p>
+      A shields.io-compatible static badge service powered by
+      <code>badge-maker</code>, <code>simple-icons</code> and GitHub
+      <code>@primer/octicons</code>.
+    </p>
+    <p>Drop-in replacement for both:</p>
+    <ul>
+      <li><code>https://img.shields.io/badge/...</code></li>
+      <li><code>https://custom-icon-badges.demolab.com/badge/...</code></li>
+    </ul>
+    <h2>Examples</h2>
+    <p>
+      <img src="/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
+      <img src="/badge/Windows-0078D6.svg?style=plastic&logo=device-desktop&logoColor=white" alt="Windows" />
+      <img src="/badge/PGP-BCD2264C18EFF80A-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white" alt="PGP" />
+    </p>
+    <pre>/badge/Linux-FCC624?style=plastic&amp;logo=linux&amp;logoColor=black
+/badge/Windows-0078D6.svg?style=plastic&amp;logo=device-desktop&amp;logoColor=white</pre>
+    <p>
+      Grammar: <code>/badge/&lt;label&gt;-&lt;message&gt;-&lt;color&gt;</code>
+      (use <code>_</code> for a space, <code>__</code> for a literal
+      underscore, <code>--</code> for a literal dash). Query params:
+      <code>style</code>, <code>logo</code>, <code>logoColor</code>,
+      <code>label</code>, <code>labelColor</code>, <code>color</code>.
+    </p>
+  </body>
+</html>
