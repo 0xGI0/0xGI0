@@ -1,28 +1,18 @@
-<svg fill="none" viewBox="0 0 850 100" width="850" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@900&amp;display=swap');
         
         @keyframes rainbowGradient {
-          0% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-          100% {
-            background-position: 0% 50%;
-          }
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
         }
         
         @keyframes blink {
-          0%, 100% {
-            opacity: 1;
-          }
-          50% {
-            opacity: 0.5;
-          }
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.5; }
         }
         
         h1 {
@@ -31,8 +21,7 @@
           font-size: 4em;
           font-weight: 900;
           letter-spacing: 0.35em;
-          padding-left: 0.35em;  /* Schiebt den Text optisch in die Mitte */
-          margin-right: -0.35em; /* Verhindert, dass der unsichtbare Abstand rechts das Layout sprengt */
+          transform: translateX(0.175em); /* Verschiebt den Text um exakt die Hälfte des Abstands */
           text-align: center;
           background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet);
           background-size: 400%;
