@@ -14,6 +14,7 @@
           font-weight: 900;
           letter-spacing: 0.35em;
           color: #672FAE;
+          transform: translateX(0.175em); /* Hier ist der Fix! Schiebt alles perfekt in die Mitte */
         }
         
         .typing-text::after {
