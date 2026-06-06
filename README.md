@@ -1,6 +1,10 @@
 ![Header](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
+<div align="center">
+
 ![Hi, I'm QG1o.!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
 ![Typing SVG](https://raw.githubusercontent.com/QG1o/QG1o/main/text.svg)
+
+</div>
 
 ---
 ```yaml
