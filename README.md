@@ -1,9 +1,8 @@
 ![Header](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
 <div align="center">
-
-![Hi, I'm QG1o.!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
-![Typing SVG](https://raw.githubusercontent.com/QG1o/QG1o/main/text.svg)
-
+  <img src="https://raw.githubusercontent.com/0xGI0/0xGI0/main/header.svg" alt="Hi, I'm 0xGI0!" />
+  <br />
+  <img src="https://raw.githubusercontent.com/0xGI0/0xGI0/main/text.svg" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,7 +18,7 @@ about_me:
   contact:
     ask_me_anything:
       text: "💬 Ask me anything"
-      url: "https://github.com/QG1o/ask-me/issues/new/choose"
+      url: "https://github.com/0xGI0/ask-me/issues/new/choose"
 
 ```
 ---
@@ -80,10 +79,10 @@ about_me:
 | 🎮 [`Portfolio-3`](https://qg1o.netlify.app/) | Interactive React portfolio with Three.js 3D graphics, GSAP animations, and glassmorphism design. |
 | 🌈 [`Portfolio-2`](https://0xgi0.github.io/portfolio2/) | React portfolio with custom rainbow cursor, spiral-wipe theme transition, and pastel design. |
 | 🌟 [`Portfolio-1`](https://0xgi0.github.io/portfolio1/) | Vanilla JS portfolio with dark/light mode toggle, glassmorphism effects, and CSS animations. |
-| 👁️ [`Profile Viewer`](https://github.com/QG1o/profile-viewer) | GitHub profile view counter API & badge for displaying profile views in READMEs. |
-| 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Two Python scripts for analyzing GitHub followers and detecting unfollowers. |
-| 🖼️ [`PicConverter`](https://github.com/QG1o/PicConverter) | Python tool for converting images between different formats. |
-| 💎 [`mein-crypto-token`](https://github.com/QG1o/mein-crypto-token) | ERC-20 token on the Polygon blockchain – smart contract development using Solidity. |
+| 👁️ [`Profile Viewer`](https://github.com/0xGI0/profile-viewer) | GitHub profile view counter API & badge for displaying profile views in READMEs. |
+| 🐙 [`GitHub Follower Checker`](https://github.com/0xGI0/github-follower-checker) | Two Python scripts for analyzing GitHub followers and detecting unfollowers. |
+| 🖼️ [`PicConverter`](https://github.com/0xGI0/PicConverter) | Python tool for converting images between different formats. |
+| 💎 [`mein-crypto-token`](https://github.com/0xGI0/mein-crypto-token) | ERC-20 token on the Polygon blockchain – smart contract development using Solidity. |
 
 
 
