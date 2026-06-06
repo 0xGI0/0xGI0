@@ -22,30 +22,30 @@ about_me:
 
 ### 🧰 Tech Stack & Skills
 #### 🔐 IT / Security
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6.svg?style=plastic&logo=device-desktop&logoColor=white)
-![Active Directory](https://custom-icon-badges.demolab.com/badge/Active_Directory-003366.svg?style=plastic&logo=server&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=plastic&logo=gnu-bash&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
-![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE.svg?style=plastic&logo=terminal&logoColor=white)
-![IT Security](https://img.shields.io/badge/IT_Security-DC143C?style=plastic&logo=fortinet&logoColor=white)
+![Linux](https://badges-blue.vercel.app/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Windows](https://badges-blue.vercel.app/badge/Windows-0078D6.svg?style=plastic&logo=device-desktop&logoColor=white)
+![Active Directory](https://badges-blue.vercel.app/badge/Active_Directory-003366.svg?style=plastic&logo=server&logoColor=white)
+![CLI](https://badges-blue.vercel.app/badge/CLI-000000?style=plastic&logo=gnu-bash&logoColor=white)
+![Bash](https://badges-blue.vercel.app/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
+![PowerShell](https://badges-blue.vercel.app/badge/PowerShell-5391FE.svg?style=plastic&logo=terminal&logoColor=white)
+![IT Security](https://badges-blue.vercel.app/badge/IT_Security-DC143C?style=plastic&logo=fortinet&logoColor=white)
 #### 🌐 Web / Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-264DE4.svg?style=plastic&logo=code&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=plastic&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)
+![HTML5](https://badges-blue.vercel.app/badge/HTML5-E44D26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://badges-blue.vercel.app/badge/CSS3-264DE4.svg?style=plastic&logo=code&logoColor=white)
+![JavaScript](https://badges-blue.vercel.app/badge/JavaScript-F0DB4F?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://badges-blue.vercel.app/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![React](https://badges-blue.vercel.app/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Next.js](https://badges-blue.vercel.app/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
+![Tailwind CSS](https://badges-blue.vercel.app/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white)
+![GSAP](https://badges-blue.vercel.app/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=black)
+![Three.js](https://badges-blue.vercel.app/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)
 #### ⚙️ Backend / Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![Python](https://badges-blue.vercel.app/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
+![SQL](https://badges-blue.vercel.app/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![PHP](https://badges-blue.vercel.app/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+![Node.js](https://badges-blue.vercel.app/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://badges-blue.vercel.app/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
+![PostgreSQL](https://badges-blue.vercel.app/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 
 
 ---
@@ -88,17 +88,17 @@ about_me:
 
 ### 📬 Profiles & Platforms
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=plastic&logo=hackthebox&logoColor=1A472A)](https://app.hackthebox.com/users/1004159)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xGI0)
-[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=plastic&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/0xGI0)
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=plastic&logo=sololearn&logoColor=white)](https://www.sololearn.com/de/profile/25490887)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/0xGI0/)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/192287066-0xgi0)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/0xGI0)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
-[![Discord](https://img.shields.io/badge/0xGI0-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/1461690261804548250)
-[![Matrix](https://img.shields.io/badge/Matrix-@0xgi0:matrix.org-000000?style=plastic&logo=matrix&logoColor=white)](https://matrix.to/#/@0xgi0:matrix.org)
-[![PGP Key](https://img.shields.io/badge/PGP-BCD2264C18EFF80A-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white)](https://github.com/0xgi0.gpg)
+[![Hack The Box](https://badges-blue.vercel.app/badge/Hack_The_Box-9FEF00?style=plastic&logo=hackthebox&logoColor=1A472A)](https://app.hackthebox.com/users/1004159)
+[![TryHackMe](https://badges-blue.vercel.app/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xGI0)
+[![Codecademy](https://badges-blue.vercel.app/badge/Codecademy-FFF0E5?style=plastic&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/0xGI0)
+[![SoloLearn](https://badges-blue.vercel.app/badge/SoloLearn-149EF2?style=plastic&logo=sololearn&logoColor=white)](https://www.sololearn.com/de/profile/25490887)
+[![LeetCode](https://badges-blue.vercel.app/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/0xGI0/)
+[![Goodreads](https://badges-blue.vercel.app/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/192287066-0xgi0)
+[![Monkeytype](https://badges-blue.vercel.app/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/0xGI0)
+[![Email](https://badges-blue.vercel.app/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
+[![Discord](https://badges-blue.vercel.app/badge/0xGI0-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/1461690261804548250)
+[![Matrix](https://badges-blue.vercel.app/badge/Matrix-@0xgi0:matrix.org-000000?style=plastic&logo=matrix&logoColor=white)](https://matrix.to/#/@0xgi0:matrix.org)
+[![PGP Key](https://badges-blue.vercel.app/badge/PGP-BCD2264C18EFF80A-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white)](https://github.com/0xgi0.gpg)
 
 
 ---
