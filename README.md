@@ -1,6 +1,6 @@
 ![Header](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xGI0/0xGI0/main/header.svg" alt="Hi, I'm 0xGI0!" />
+  <img src="https://raw.githubusercontent.com/0xGI0/0xGI0/main/header2.svg" alt="Hi, I'm 0xGI0!" />
   <br />
   <img src="https://raw.githubusercontent.com/0xGI0/0xGI0/main/text.svg" alt="Typing SVG" />
 </div>
