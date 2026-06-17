@@ -1,0 +1,25 @@
+<svg viewBox="0 0 850 100" width="850" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" gradientUnits="userSpaceOnUse"
+                    x1="0" y1="0" x2="425" y2="0" spreadMethod="repeat">
+      <stop offset="0"    stop-color="#ff0000"/>
+      <stop offset="0.16" stop-color="#ff8800"/>
+      <stop offset="0.33" stop-color="#ffee00"/>
+      <stop offset="0.5"  stop-color="#00cc44"/>
+      <stop offset="0.66" stop-color="#0088ff"/>
+      <stop offset="0.83" stop-color="#4b0082"/>
+      <stop offset="1"    stop-color="#ee00ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                        from="0 0" to="425 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0.45; } }
+      text { font-family: "Fira Code", "DejaVu Sans Mono", monospace; }
+      tspan { animation: blink 2s infinite; }
+    </style>
+  </defs>
+  <text x="425" y="66" text-anchor="middle" font-size="48" font-weight="900"
+        letter-spacing="14" fill="url(#rainbow)">
+    <tspan style="animation-delay:0s">H</tspan><tspan style="animation-delay:.1s">i</tspan><tspan style="animation-delay:.2s">,</tspan><tspan style="animation-delay:.3s"> </tspan><tspan style="animation-delay:.4s">I</tspan><tspan style="animation-delay:.5s">'</tspan><tspan style="animation-delay:.6s">m</tspan><tspan style="animation-delay:.7s"> </tspan><tspan style="animation-delay:.8s">0</tspan><tspan style="animation-delay:.9s">x</tspan><tspan style="animation-delay:1s">G</tspan><tspan style="animation-delay:1.1s">I</tspan><tspan style="animation-delay:1.2s">0</tspan>
+  </text>
+</svg>
