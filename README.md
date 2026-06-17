@@ -101,7 +101,7 @@ about_me:
 [![Email](https://badges-blue.vercel.app/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white&v=2)](mailto:g@mioo.slmail.me)
 [![Discord](https://badges-blue.vercel.app/badge/0xGI0-5865F2?style=plastic&logo=discord&logoColor=white&v=2)](https://discord.com/users/1461690261804548250)
 [![Matrix](https://badges-blue.vercel.app/badge/Matrix-@0xgi0:matrix.org-000000?style=plastic&logo=matrix&logoColor=white&v=2)](https://matrix.to/#/@0xgi0:matrix.org)
-[![PGP Key](https://badges-blue.vercel.app/badge/PGP-BCD2264C18EFF80A-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white&v=2)](https://github.com/0xgi0.gpg)
+[![PGP Key](https://badges-blue.vercel.app/badge/PGP-F92AF40D80E85351-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white&v=3)](https://github.com/0xgi0.gpg)
 
 
 ---
