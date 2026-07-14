@@ -95,7 +95,7 @@ Creative front-end explorations — animation and interaction techniques.
 [![LeetCode](https://badges-blue.vercel.app/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white&v=2)](https://leetcode.com/u/0xGI0/)
 [![Goodreads](https://badges-blue.vercel.app/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white&v=2)](https://www.goodreads.com/user/show/192287066-0xgi0)
 [![Monkeytype](https://badges-blue.vercel.app/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white&v=2)](https://monkeytype.com/profile/0xGI0)
-[![Email](https://badges-blue.vercel.app/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white&v=2)](mailto:g@mioo.slmail.me)
+[![Email](https://badges-blue.vercel.app/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white&v=2)](mailto:georgios@tertlidis.com)
 [![Discord](https://badges-blue.vercel.app/badge/0xGI0-5865F2?style=plastic&logo=discord&logoColor=white&v=2)](https://discord.com/users/1461690261804548250)
 [![Matrix](https://badges-blue.vercel.app/badge/Matrix-@0xgi0:matrix.org-000000?style=plastic&logo=matrix&logoColor=white&v=2)](https://matrix.to/#/@0xgi0:matrix.org)
 [![PGP Key](https://badges-blue.vercel.app/badge/PGP-F92AF40D80E85351-672FAE?style=plastic&logo=gnuprivacyguard&logoColor=white&v=3)](https://github.com/0xgi0.gpg)
