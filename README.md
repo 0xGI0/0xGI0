@@ -13,10 +13,10 @@ about_me:
   location: "Stuttgart area, Germany"
   languages: ["🇩🇪", "🇬🇷", "🇬🇧"]
   description:
-    - "🖥️ 7 years running the full IT infrastructure of a retail company"
+    - "🖥️ 5+ years running the IT infrastructure of a retail company"
     - "🔐 Linux, virtualization, networking, system hardening"
-    - "🌐 Founder of a web agency – 32 client projects shipped"
-    - "🛡️ Continuous hands-on security training (HTB, THM) since 2022"
+    - "🌐 Founder of Studio Georg – web development"
+    - "🛡️ Hands-on security training (HTB, THM) since 2022"
     - "📚 Currently preparing: Microsoft AZ-900"
   contact:
     ask_me_anything:
@@ -60,11 +60,12 @@ about_me:
 
 | Project | Description |
 |---|---|
-| 🏢 [`Web Agency`](https://gio-agentur2.vercel.app/) | My web agency — **32 client projects**. Next.js, React, GSAP, Three.js. Design, development and deployment. |
+| 🏢 **[Studio Georg](https://studiogeorg.de)** | My web studio. Design and development of business websites — Next.js, React, GSAP, Three.js. |
+| 👤 **[tertlidis.com](https://tertlidis.com)** | Personal portfolio. |
 
 ### 🎨 Experiments
 
-Creative front-end explorations — pushing animation and interaction techniques.
+Creative front-end explorations — animation and interaction techniques.
 
 | Project | Description |
 |---|---|
@@ -92,7 +93,7 @@ Creative front-end explorations — pushing animation and interaction techniques
 
 [![Hack The Box](https://badges-blue.vercel.app/badge/Hack_The_Box-9FEF00?style=plastic&logo=hackthebox&logoColor=1A472A&v=2)](https://app.hackthebox.com/users/1004159)
 [![TryHackMe](https://badges-blue.vercel.app/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white&v=2)](https://tryhackme.com/p/0xGI0)
-[![Codecademy](https://badges-blue.vercel.app/badge/Codecademy-FFF0E5?style=plastic&logo=codecademy&logoColor=1F243A&v=2)](https://www.codecademy.com/profiles/0xGI0)
+[![LinkedIn](https://badges-blue.vercel.app/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/georgiost/)
 [![LeetCode](https://badges-blue.vercel.app/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white&v=2)](https://leetcode.com/u/0xGI0/)
 [![Goodreads](https://badges-blue.vercel.app/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white&v=2)](https://www.goodreads.com/user/show/192287066-0xgi0)
 [![Monkeytype](https://badges-blue.vercel.app/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white&v=2)](https://monkeytype.com/profile/0xGI0)
