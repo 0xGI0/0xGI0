@@ -8,7 +8,7 @@
 ---
 ```yaml
 about_me:
-  name: "[DEIN KLARNAME]"
+  name: "Georgios Tertlidis"
   role: "IT Administrator & Web Developer"
   location: "Stuttgart area, Germany"
   languages: ["🇩🇪", "🇬🇷", "🇬🇧"]
