@@ -69,7 +69,7 @@ Creative front-end explorations — animation and interaction techniques.
 
 | Project | Description |
 |---|---|
-| 🌈 [`Portfolio-2re`](https://0xgi0.github.io/portfolio2re/) | Custom rainbow cursor, spiral-wipe theme transition, pastel design. |
+| 🌈 [`Dev-Portfolio`](https://dev.tertlidis.com/) | Custom rainbow cursor, spiral-wipe theme transition, pastel design. |
 
 ### 🔧 Tools
 
