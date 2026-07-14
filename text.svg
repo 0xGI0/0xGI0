@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@900&amp;display=swap');
-        
+
         .typing-container {
           display: flex;
           justify-content: center;
@@ -14,68 +14,64 @@
           font-weight: 900;
           letter-spacing: 0.35em;
           color: #672FAE;
-          transform: translateX(0.175em); /* Hier ist der Fix! Schiebt alles perfekt in die Mitte */
+          transform: translateX(0.175em);
         }
-        
+
         .typing-text::after {
           content: "";
           animation: typing 15s steps(1) infinite;
         }
-        
+
         @keyframes typing {
-          0% { content: ""; }
+          /* --- Web Developer --- */
+          0%   { content: ""; }
           1.5% { content: "W"; }
-          3% { content: "We"; }
+          3%   { content: "We"; }
           4.5% { content: "Web"; }
-          6% { content: "Web "; }
+          6%   { content: "Web "; }
           7.5% { content: "Web D"; }
-          9% { content: "Web De"; }
-          10.5% { content: "Web Dev"; }
-          12% { content: "Web Deve"; }
-          13.5% { content: "Web Devel"; }
-          15% { content: "Web Develo"; }
-          16.5% { content: "Web Develop"; }
-          18% { content: "Web Develope"; }
-          19.5% { content: "Web Developer"; }
+          9%   { content: "Web De"; }
+          10.5%{ content: "Web Dev"; }
+          12%  { content: "Web Deve"; }
+          13.5%{ content: "Web Devel"; }
+          15%  { content: "Web Develo"; }
+          16.5%{ content: "Web Develop"; }
+          18%  { content: "Web Develope"; }
+          19.5%{ content: "Web Developer"; }
           19.5%, 32% { content: "Web Developer"; }
-          
-          33.3% { content: ""; }
-          34.8% { content: "I"; }
-          36.3% { content: "IT"; }
-          37.8% { content: "IT-"; }
-          39.3% { content: "IT-A"; }
-          40.8% { content: "IT-Ad"; }
-          42.3% { content: "IT-Adm"; }
-          43.8% { content: "IT-Admi"; }
-          45.3% { content: "IT-Admin"; }
+
+          /* --- IT-Admin --- */
+          33.3%{ content: ""; }
+          34.8%{ content: "I"; }
+          36.3%{ content: "IT"; }
+          37.8%{ content: "IT-"; }
+          39.3%{ content: "IT-A"; }
+          40.8%{ content: "IT-Ad"; }
+          42.3%{ content: "IT-Adm"; }
+          43.8%{ content: "IT-Admi"; }
+          45.3%{ content: "IT-Admin"; }
           45.3%, 65% { content: "IT-Admin"; }
-          
-          66.6% { content: ""; }
-          68% { content: "S"; }
-          69.4% { content: "Se"; }
-          70.8% { content: "Sec"; }
-          72.2% { content: "Secu"; }
-          73.6% { content: "Secur"; }
-          75% { content: "Securi"; }
-          76.4% { content: "Securit"; }
-          77.8% { content: "Security"; }
-          79.2% { content: "Security "; }
-          80.6% { content: "Security H"; }
-          82% { content: "Security Ho"; }
-          83.4% { content: "Security Hob"; }
-          84.8% { content: "Security Hobb"; }
-          86.2% { content: "Security Hobby"; }
-          87.6% { content: "Security Hobbyi"; }
-          89% { content: "Security Hobbyis"; }
-          90.4% { content: "Security Hobbyist"; }
-          90.4%, 100% { content: "Security Hobbyist"; }
-        }
-        
+
+          /* --- IT-Security --- */
+          66.6%{ content: ""; }
+          68%  { content: "I"; }
+          69.5%{ content: "IT"; }
+          71%  { content: "IT-"; }
+          72.5%{ content: "IT-S"; }
+          74%  { content: "IT-Se"; }
+          75.5%{ content: "IT-Sec"; }
+          77%  { content: "IT-Secu"; }
+          78.5%{ content: "IT-Secur"; }
+          80%  { content: "IT-Securi"; }
+          81.5%{ content: "IT-Securit"; }
+          83%  { content: "IT-Security"; }
+          83%, 100% { content: "IT-Security"; }
+
         .cursor {
           animation: blink 0.7s step-end infinite;
           margin-left: 5px;
         }
-        
+
         @keyframes blink {
           50% { opacity: 0; }
         }
