@@ -85,7 +85,6 @@ Creative front-end explorations — pushing animation and interaction techniques
 ### 🎯 Currently
 
 - 📘 Preparing **Microsoft AZ-900** (Azure Fundamentals)
-- 🔨 Building a full-stack PERN application
 
 ---
 
