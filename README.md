@@ -60,7 +60,7 @@ about_me:
 
 | Project | Description |
 |---|---|
-| 🏢 **[Web Agency](https://gio-agentur2.vercel.app/)** | My web agency — **32 client projects**. Next.js, React, GSAP, Three.js. Design, development and deployment. |
+| 🏢 [`Web Agency`](https://gio-agentur2.vercel.app/) | My web agency — **32 client projects**. Next.js, React, GSAP, Three.js. Design, development and deployment. |
 
 ### 🎨 Experiments
 
