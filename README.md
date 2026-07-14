@@ -93,7 +93,7 @@ Creative front-end explorations — animation and interaction techniques.
 
 [![Hack The Box](https://badges-blue.vercel.app/badge/Hack_The_Box-9FEF00?style=plastic&logo=hackthebox&logoColor=1A472A&v=2)](https://app.hackthebox.com/users/1004159)
 [![TryHackMe](https://badges-blue.vercel.app/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white&v=2)](https://tryhackme.com/p/0xGI0)
-[![LinkedIn](https://badges-blue.vercel.app/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/georgiost/)
+[![LinkedIn](https://badges-blue.vercel.app/badge/LinkedIn-0A66C2?style=plastic&logoColor=white&v=2)](https://www.linkedin.com/in/georgiost/)
 [![LeetCode](https://badges-blue.vercel.app/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white&v=2)](https://leetcode.com/u/0xGI0/)
 [![Goodreads](https://badges-blue.vercel.app/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white&v=2)](https://www.goodreads.com/user/show/192287066-0xgi0)
 [![Monkeytype](https://badges-blue.vercel.app/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white&v=2)](https://monkeytype.com/profile/0xGI0)
