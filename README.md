@@ -69,7 +69,7 @@ Creative front-end explorations — pushing animation and interaction techniques
 | Project | Description |
 |---|---|
 | 🎮 [`Portfolio-3`](https://qg1o.netlify.app/) | Three.js 3D graphics, GSAP animations, glassmorphism design. |
-| 🌈 [`Portfolio-2`](https://0xgi0.github.io/portfolio2/) | Custom rainbow cursor, spiral-wipe theme transition, pastel design. |
+| 🌈 [`Portfolio-2re`](https://0xgi0.github.io/portfolio2re/) | Custom rainbow cursor, spiral-wipe theme transition, pastel design. |
 
 ### 🔧 Tools
 
