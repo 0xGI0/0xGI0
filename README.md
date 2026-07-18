@@ -70,6 +70,7 @@ Creative front-end explorations — animation and interaction techniques.
 | Project | Description |
 |---|---|
 | 🌈 [`Dev-Portfolio`](https://dev.tertlidis.com/) | Custom rainbow cursor, spiral-wipe theme transition, pastel design. |
+| 🎨 [`Shader-Playground`](https://system.tertlidis.com/) | WebGL/shader experiments — my most-crafted work. |
 
 ### 🔧 Tools
 
