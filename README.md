@@ -76,7 +76,7 @@ Creative front-end explorations — animation and interaction techniques.
 
 | Project | Description |
 |---|---|
-| 👁️ [`Profile Viewer`](https://github.com/0xGI0/profile-viewer) | GitHub profile view counter API & badge for READMEs. |
+| 👁️ [`Profile Viewer`](https://github.com/0xGI0/profile-viewer) | Self-hosted, animated view counter badge for GitHub profiles — SVG, Vercel, Upstash Redis. |
 | 🐙 [`GitHub Follower Checker`](https://github.com/0xGI0/GitHub-Follower-Checker) | Python tool (GUI + CLI) for analyzing followers and unfollowing non-followers. |
 | 🖼️ [`PicConverter`](https://github.com/0xGI0/PicConverter) | Image & PDF converter with GUI, CLI, batch and EXIF editing. |
 | 💎 [`mein-crypto-token`](https://github.com/0xGI0/mein-crypto-token) | ERC-20 token (QGIO) live on Polygon mainnet — Solidity, OpenZeppelin v5, Foundry tests & CI. |
