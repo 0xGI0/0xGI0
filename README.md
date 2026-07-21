@@ -60,7 +60,7 @@ about_me:
 
 | Project | Description |
 |---|---|
-| 🏢 **[Studio Georg](https://studiogeorg.de)** | My web studio. Design and development of business websites — Next.js, React, GSAP, Three.js. |
+| 🏢 **[Studio Georg](https://studiogeorg.de)** | My web studio. Design and development of business websites — Next.js, React, GSAP. |
 | 👤 **[tertlidis.com](https://tertlidis.com)** | Personal portfolio. |
 
 ### 🎨 Experiments
