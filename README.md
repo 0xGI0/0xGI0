@@ -60,8 +60,8 @@ about_me:
 
 | Project | Description |
 |---|---|
-| 🏢 **[Studio Georg](https://studiogeorg.de)** | My web studio. Design and development of business websites — Next.js, React, GSAP. |
-| 👤 **[Portfolio](https://tertlidis.com)** | Personal portfolio. |
+| 🏢 **[Studio Georg]()** | My web studio. Design and development of business websites — Next.js, React, GSAP. |
+| 👤 **[Portfolio]()** | Personal portfolio. |
 
 ### 🎨 Experiments
 
@@ -69,8 +69,8 @@ Creative front-end explorations — animation and interaction techniques.
 
 | Project | Description |
 |---|---|
-| 🌈 [`Playful Portfolio`](https://dev.tertlidis.com/) | My developer portfolio — playful by design: cursor-tracking avatar eyes, click confetti, rainbow cursor, spiral-wipe theme transition. |
-| 🎨 [`Life in Motion`](https://system.tertlidis.com/) | My personal site — who I am and what I craft: hand-built WebGL shaders & GSAP motion. |
+| 🌈 [`Playful Portfolio`]() | My developer portfolio — playful by design: cursor-tracking avatar eyes, click confetti, rainbow cursor, spiral-wipe theme transition. |
+| 🎨 [`Life in Motion`]() | My personal site — who I am and what I craft: hand-built WebGL shaders & GSAP motion. |
 
 ### 📱 Apps
 
