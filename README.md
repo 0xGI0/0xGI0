@@ -8,7 +8,7 @@
 ---
 ```yaml
 about_me:
-  name: "Georgios Tertlidis"
+  name: "G"
   role: "IT Administrator & Web Developer"
   location: "Stuttgart area, Germany"
   languages: ["🇩🇪", "🇬🇷", "🇬🇧"]
@@ -60,7 +60,7 @@ about_me:
 
 | Project | Description |
 |---|---|
-| 🏢 **[Studio Georg]()** | My web studio. Design and development of business websites — Next.js, React, GSAP. |
+| 🏢 **[]()** | My web studio. Design and development of business websites — Next.js, React, GSAP. |
 | 👤 **[Portfolio]()** | Personal portfolio. |
 
 ### 🎨 Experiments
